@@ -1,0 +1,11 @@
+# 临时诊断/输出文件（PowerShell 重定向产生）
+_*.txt
+
+# build artifacts stay out of the repo
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
